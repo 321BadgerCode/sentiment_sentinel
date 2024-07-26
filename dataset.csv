@@ -1,0 +1,128 @@
+message	sentiment
+Your presence brings joy to everyone around you	Happy
+The sunset over the ocean was breathtaking	Happy
+The support I received was overwhelming	Happy
+He managed to brighten my day with his kindness	Happy
+This achievement is beyond my wildest dreams	Happy
+I can't stop smiling thinking about that moment	Happy
+My spirits are lifted whenever I think of you	Happy
+Life feels perfect with friends like you	Happy
+His enthusiasm is infectious and uplifting	Happy
+This memory will always bring a smile to my face	Happy
+The continuous rain is starting to bring me down	Sad
+Nothing seems to be going right today	Sad
+Feeling a sense of loss is never easy	Sad
+I can't shake off this feeling of loneliness	Sad
+Everything feels so difficult right now	Sad
+I miss the good times we used to have	Sad
+The emptiness in my heart is unbearable	Sad
+Sometimes, it feels like the world is against me	Sad
+The sadness I feel is hard to describe	Sad
+Every day feels like a struggle lately	Sad
+I can't stand the injustice in the world	Angry
+Her betrayal was a punch to the gut	Angry
+I'm furious about the lack of progress	Angry
+The constant noise is driving me crazy	Angry
+I can't believe they did this to us	Angry
+The traffic today was unbearable	Angry
+The service at the restaurant was appalling	Angry
+Being treated unfairly is infuriating	Angry
+The delays are completely unacceptable	Angry
+I am livid about the broken promises	Angry
+I'm hopeful about the future despite challenges	Optimistic
+New opportunities are on the horizon	Optimistic
+I believe things will get better soon	Optimistic
+There's always a silver lining in tough times	Optimistic
+I have faith that everything will work out	Optimistic
+Better days are coming, just wait and see	Optimistic
+We are on the brink of something amazing	Optimistic
+Positivity can change the world	Optimistic
+There's light at the end of the tunnel	Optimistic
+Every setback is a setup for a comeback	Optimistic
+I'm feeling a bit off today, maybe it's the weather	Neutral
+Let's just see how things play out	Neutral
+I'm neither excited nor upset about this	Neutral
+Sometimes, I just don't have strong feelings	Neutral
+I'm just going with the flow	Neutral
+It is what it is	Neutral
+I have no particular opinion on this matter	Neutral
+Nothing stands out to me right now	Neutral
+I'm just taking things one day at a time	Neutral
+Life feels pretty average right now	Neutral
+This routine is getting monotonous	Bored
+Another day, another repetitive task	Bored
+I need something new to break the cycle	Bored
+Everything feels so mundane	Bored
+I'm tired of the same old thing	Bored
+Looking for something to spark my interest	Bored
+I need a change of pace	Bored
+Feeling stuck in a rut	Bored
+Is there anything exciting happening?	Bored
+I'm craving some adventure	Bored
+This decision weighs heavily on my mind	Uncertain
+I'm not sure which path to take	Uncertain
+There are too many unknowns right now	Uncertain
+I can't decide what the best option is	Uncertain
+I feel pulled in different directions	Uncertain
+Uncertainty is making me anxious	Uncertain
+I don't know what to expect	Uncertain
+I'm second-guessing myself constantly	Uncertain
+I need more information to make a choice	Uncertain
+This situation is confusing and unclear	Uncertain
+Everything seems unclear to me right now	Unsure
+I can't quite figure out what to do next	Unsure
+There's a lot of ambiguity surrounding this issue	Unsure
+I'm having trouble deciding how to proceed	Unsure
+I'm not confident about the direction I'm taking	Unsure
+I feel lost without more guidance	Unsure
+I don't have a clear sense of what to choose	Unsure
+I'm unsure about the best course of action	Unsure
+These instructions don't make much sense	Confused
+I'm having trouble understanding the plan	Confused
+Things are not adding up for me	Confused
+This situation is quite perplexing	Confused
+I can't make sense of these mixed signals	Confused
+The information given is confusing and contradictory	Confused
+I'm struggling to grasp the concept	Confused
+Everything feels jumbled and unclear	Confused
+I find it hard to follow the discussion	Confused
+I don't really care about this issue	Apathetic
+This doesn't matter much to me	Apathetic
+I have no strong feelings either way	Apathetic
+Whatever happens, it won't make a difference to me	Apathetic
+I'm indifferent to the outcome of this	Apathetic
+There's a lack of interest in this topic	Apathetic
+I can't muster up any enthusiasm	Apathetic
+This issue seems irrelevant to me	Apathetic
+Everything is calm and collected right now	Calm
+I'm at peace with how things are going	Calm
+My mind feels at ease about the situation	Calm
+I remain composed despite the chaos	Calm
+There's a serene atmosphere around us	Calm
+I'm handling this with a steady mind	Calm
+Everything is under control and peaceful	Calm
+I'm not letting this affect my tranquility	Calm
+He's always so quiet and reserved	Reserved
+She keeps her thoughts to herself	Reserved
+His demeanor is always so private	Reserved
+She doesn't share much about her feelings	Reserved
+He prefers to stay out of the spotlight	Reserved
+Her reactions are always measured and restrained	Reserved
+He's not one to openly express himself	Reserved
+She remains distant and unobtrusive	Reserved
+I approach this matter with a balanced perspective	Objective
+I'm analyzing the situation without bias	Objective
+Facts are guiding my decision, not emotions	Objective
+I’m focusing on the evidence rather than opinions	Objective
+My assessment is based purely on data	Objective
+I'm maintaining impartiality in my evaluation	Objective
+Decisions are being made based on objective criteria	Objective
+I’m keeping personal feelings out of this analysis	Objective
+His response was completely devoid of emotion	Dispassionate
+She approached the issue with a neutral stance	Dispassionate
+He remained detached from the outcome	Dispassionate
+Her reaction was purely logical and unemotional	Dispassionate
+He analyzed the data without any emotional involvement	Dispassionate
+Her feedback was clear and objective	Dispassionate
+His viewpoint was clinical and unaffected by feelings	Dispassionate
+She maintained a purely factual perspective	Dispassionate
