@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./asset/logo.png" alt="Sentiment Sentinel Logo" width="200" height="100">
+	<img src="./asset/logo.png" alt="Sentiment Sentinel Logo" width="200" height="200">
 </p>
 
 <h1 align="center">Sentiment Sentinel</h1>
